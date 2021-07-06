@@ -1,0 +1,36 @@
+.blue-paragraph24{
+    color: blue;
+    background-color: lightblue;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 10px;
+}
+#orange-paragraph24{
+    color: orange;
+    background-color: lightyellow;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 10px;
+}
+*{
+    margin: 0px;
+    background-color: lightgray;
+    font-family: 'Courier New', Courier, monospace;
+}
+.border-text{
+    border: 1px solid red;
+    padding: 5px;
+}
+span{
+    color: blue;
+    font-weight: bold;
+}
+.big-font{
+    font-weight: large;
+}
+.green-bg{
+    background-color: lime;
+}
+.white-text{
+    color:white;
+}
